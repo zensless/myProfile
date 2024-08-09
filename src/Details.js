@@ -36,7 +36,7 @@ export const personalDetails = {
   name: "Jeremy Sagala",
   tagline: "I am a frontend developer and UI/UX designer",
   img: profile,
-  about: `Saya merupakan mahasiswa semester 7 di Universitas Dian Nusantara dengan IPK 3.61, memiliki keterampilan dalam UI/UX design dan frontend development. Saya telah memiliki pengalaman, termasuk bekerja sama dengan Hotel Pinangsia dalam pembuatan company profile dan sistem manajemen hotel. Keahlian saya terletak pada desain antarmuka dan pengembangan front-end.`,
+  about: `I am a 7th-semester student at Dian Nusantara University with a GPA of 3.61, skilled in UI/UX design and frontend development. I have experience working with Hotel Pinangsia on creating a company profile and a hotel management system. My expertise lies in interface design and frontend development.`,
 };
 
 // Enter your Social Media URLs here
