@@ -57,7 +57,7 @@ export const workDetails = [{
 // Enter your Education Details here
 export const eduDetails = [{
   Position: "Information Technology",
-  Company: "Dian Nusantara",
+  Company: `Dian Nusantara`,
   Location: "Jakarta",
   Type: "Reguler",
   Duration: "Jan 2021 - Present",
