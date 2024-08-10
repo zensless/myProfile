@@ -32,10 +32,10 @@ function About() {
           Education
         </h1>
         {React.Children.toArray(
-          eduDetails.map(({ Position, Company, Location, Type, Duration }) => (
+          eduDetails.map(({ Position, University, Location, Type, Duration }) => (
             <Work
               position={Position}
-              company={Company}
+              university={University}
               location={Location}
               type={Type}
               duration={Duration}
